@@ -1,11 +1,11 @@
 ---
 attachments: [Clipboard_2024-09-10-15-15-42.png, Clipboard_2024-09-10-15-26-27.png]
-title: Aula 2 - Resumo Organizado
+title: Aula 2 - Test-Driven Development
 created: '2024-09-10T18:01:03.743Z'
-modified: '2024-09-11T12:50:53.777Z'
+modified: '2024-09-12T13:09:51.378Z'
 ---
 
-### Aula 2 - Resumo Organizado
+### Aula 2 - Test-Driven Development
 
 #### A importância dos testes
 

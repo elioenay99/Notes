@@ -1,10 +1,10 @@
 ---
-title: Aula 1 - Resumo Organizado
+title: Aula 1 - Clean Code
 created: '2024-09-10T15:56:13.776Z'
-modified: '2024-09-11T11:33:45.575Z'
+modified: '2024-09-12T13:08:31.463Z'
 ---
 
-### Aula 1 - Resumo Organizado
+### Aula 1 - Clean Code
 
 #### Problemas Comuns em Projetos de Software
 
