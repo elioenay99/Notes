@@ -1,14 +1,14 @@
 ---
 title: Aula 5 - SOLID
 created: '2024-09-12T18:45:49.947Z'
-modified: '2024-09-13T14:48:35.280Z'
+modified: '2024-09-13T15:27:36.029Z'
 ---
 
 ### Aula 5 - SOLID
 
 Introduzido por Robert Martin, com base no trabalho de outras pessoas como Tom de Marco, Bertrand Mayer, Barbara Liskov e outros, em um paper chamado Design principles e design Patterns, sendo nomeados de SOLID tempos depois por Michael Feathers.
 
-Um prncípio não é uma lei ou regra, é apenas um conselho que você pode seguir ou não.
+Um princípio não é uma lei ou regra, é apenas um conselho que você pode seguir ou não.
 
 SOLID é a reunião de 5 principios de desenvolvimentos de software orientado a objetos que são a base para criar um design flexivel, fácil de entender e manter o SOLID principles atacam esses problemas:
 
