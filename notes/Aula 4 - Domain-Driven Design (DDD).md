@@ -1,8 +1,7 @@
 ---
-attachments: [Clipboard_2024-09-12-07-41-18.png, Clipboard_2024-09-12-08-10-13.png, Clipboard_2024-09-12-08-17-47.png, Clipboard_2024-09-12-08-29-43.png, Clipboard_2024-09-12-09-11-11.png, Clipboard_2024-09-12-09-12-37.png, Clipboard_2024-09-12-09-14-15.png, Clipboard_2024-09-12-09-17-40.png, Clipboard_2024-09-12-09-20-07.png, Clipboard_2024-09-12-09-22-15.png, Clipboard_2024-09-12-09-25-00.png]
 title: Aula 4 - Domain-Driven Design (DDD)
 created: '2024-09-11T18:33:49.273Z'
-modified: '2024-09-13T20:49:23.072Z'
+modified: '2024-09-13T20:56:28.764Z'
 ---
 
 ### Aula 4 - Domain-Driven Design (DDD)

@@ -1,8 +1,7 @@
 ---
-attachments: [Clipboard_2024-09-11-11-09-03.png, Clipboard_2024-09-11-11-10-02.png, Clipboard_2024-09-11-11-10-50.png, Clipboard_2024-09-11-11-11-06.png, Clipboard_2024-09-11-11-11-14.png, Clipboard_2024-09-11-11-49-08.png, Clipboard_2024-09-11-16-12-55.png]
 title: Aula 3 - Clean Architecture
 created: '2024-09-11T12:51:19.626Z'
-modified: '2024-09-13T20:36:29.047Z'
+modified: '2024-09-13T20:56:28.615Z'
 ---
 
 ### Aula 3 - Clean Architecture

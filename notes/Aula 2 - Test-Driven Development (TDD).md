@@ -1,8 +1,7 @@
 ---
-attachments: [Clipboard_2024-09-10-15-15-42.png, Clipboard_2024-09-10-15-26-27.png]
 title: Aula 2 - Test-Driven Development (TDD)
 created: '2024-09-10T18:01:03.743Z'
-modified: '2024-09-13T20:29:04.488Z'
+modified: '2024-09-13T20:56:28.517Z'
 ---
 
 ### Aula 2 - Test-Driven Development (TDD)
