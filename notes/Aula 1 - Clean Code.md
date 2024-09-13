@@ -10,7 +10,7 @@ modified: '2024-09-13T15:11:17.777Z'
 
 1. **Código fonte bagunçado**:
    - Quando o código é desorganizado, torna-se difícil saber por onde começar e onde cada funcionalidade está localizada.
-   - Exemplo: *Projudi* – Um exemplo claro de sistema com complexidade e falta de organização, o que dificulta a manutenção e a evolução do sistema.
+   - Exemplo: Sistemas legados com struts – Um exemplo claro de sistema com complexidade e falta de organização, o que dificulta a manutenção e a evolução do sistema.
    - A desorganização geralmente leva a um aumento de **dívida técnica**, dificultando a adição de novas funcionalidades.
 
 2. **Dependência de uma pessoa para mexer em partes do código**:
